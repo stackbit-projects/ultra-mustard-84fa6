@@ -9,6 +9,7 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
 template: post
+image: images/ezgif.com-webp-to-png.png
 ---
 ## Lorem ipsum
 
