@@ -4,7 +4,7 @@ subtitle: lorem-ipsum
 date: '2021-01-20'
 categories: []
 tags: []
-excerpt: lorem-ipsum
+excerpt: Stede bonnet
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
